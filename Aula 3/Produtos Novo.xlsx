@@ -1,0 +1,78 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Produtos</th>
+      <th>Preço Original</th>
+      <th>Moeda</th>
+      <th>Cotação</th>
+      <th>Preço de Compra</th>
+      <th>Margem</th>
+      <th>Preço de Venda</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Câmera Canon</td>
+      <td>999.99</td>
+      <td>Dólar</td>
+      <td>5.219200</td>
+      <td>5219.147808</td>
+      <td>1.40</td>
+      <td>7306.806931</td>
+    </tr>
+    <tr>
+      <td>Carro Renault</td>
+      <td>4500.00</td>
+      <td>Euro</td>
+      <td>5.110745</td>
+      <td>22998.352608</td>
+      <td>2.00</td>
+      <td>45996.705216</td>
+    </tr>
+    <tr>
+      <td>Notebook Dell</td>
+      <td>899.99</td>
+      <td>Dólar</td>
+      <td>5.219200</td>
+      <td>4697.227808</td>
+      <td>1.70</td>
+      <td>7985.287274</td>
+    </tr>
+    <tr>
+      <td>IPhone</td>
+      <td>799.00</td>
+      <td>Dólar</td>
+      <td>5.219200</td>
+      <td>4170.140800</td>
+      <td>1.70</td>
+      <td>7089.239360</td>
+    </tr>
+    <tr>
+      <td>Carro Fiat</td>
+      <td>3000.00</td>
+      <td>Euro</td>
+      <td>5.110745</td>
+      <td>15332.235072</td>
+      <td>1.90</td>
+      <td>29131.246637</td>
+    </tr>
+    <tr>
+      <td>Celular Xiaomi</td>
+      <td>480.48</td>
+      <td>Dólar</td>
+      <td>5.219200</td>
+      <td>2507.721216</td>
+      <td>2.00</td>
+      <td>5015.442432</td>
+    </tr>
+    <tr>
+      <td>Joia 20g</td>
+      <td>20.00</td>
+      <td>Ouro</td>
+      <td>288.910000</td>
+      <td>5778.200000</td>
+      <td>1.15</td>
+      <td>6644.930000</td>
+    </tr>
+  </tbody>
+</table>
