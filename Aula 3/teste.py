@@ -7,7 +7,7 @@ navegador = webdriver.Chrome(executable_path='./chromedriver.exe')
 #passo 1: Pegar a acotação do dólar
 
 #entrar no google
-navegador.get("https://google.com.br")
+navegador.get("http://127.0.0.1:5500/teste%20html/teste.html")
 
 #pesquisar no google a "cotação do dolar"
 navegador.find_element("xpath", '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input').send_keys("Cotação dolar")
